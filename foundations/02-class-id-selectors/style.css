@@ -1,0 +1,30 @@
+
+
+body{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+
+
+
+.pink{
+    background-color: pink;
+    font-family: Verdana;
+    font-size: 15px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue{
+    color: blue;
+    font-size: 36 px;
+}
+.bigfount{
+    font-size: 24px;
+}
+
+
+#green{
+    background-color: rgb(150, 219, 150);
+    font-weight: bold;
+    font-size: 24px;
+}
