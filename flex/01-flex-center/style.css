@@ -4,8 +4,13 @@
   width: 400px;
   height: 300px;
   display: flex;
+<<<<<<< HEAD
   justify-content: center;
   align-items: center;
+=======
+  align-items: center;
+  justify-content: center;
+>>>>>>> 84e88d1fb1747131842b48d2ba0821ae48e9d393
 }
 
 .box {
@@ -16,5 +21,8 @@
   width: 80px;
   height: 80px;
   
+<<<<<<< HEAD
   
+=======
+>>>>>>> 84e88d1fb1747131842b48d2ba0821ae48e9d393
 }
